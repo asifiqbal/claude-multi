@@ -50,7 +50,7 @@ This tool installs a wrapper (`cc-launch.sh`) that uses a lockfile at `~/.claude
 ## Install
 
 ```bash
-git clone https://github.com/YOU/claude-multi.git
+git clone https://github.com/asifiqbal/claude-multi.git
 cd claude-multi
 ./install.sh
 ```
